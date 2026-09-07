@@ -27,5 +27,6 @@ public class Main {
         System.out.println("Debajo se deben mostrar los productos");
         tienda.showInventory();
 
+        // Este es un comentario para comprobar que git funciona en WSL
     }
 }
